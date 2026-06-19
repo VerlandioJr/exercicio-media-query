@@ -23,7 +23,7 @@ span#burguer{
     background-color: rgb(54, 53, 53);
     color: white;
     display: block;
-    text-align: right;
+    text-align: center;
     padding: 10px;
     cursor: pointer;
 }
@@ -56,8 +56,8 @@ menu > ul > li > a:hover{
 main{
     width: 90vw;
     background-color: white;
-    margin-top: 10px;
     margin: auto;
+    margin-top: 10px;
     padding: 10px;
     border-radius: 10px;
 }
